@@ -1,0 +1,31 @@
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>self introduction</title>
+
+</head>
+<body bgcolor="#84C1FF" background="background.jpg"> 
+<center> <font size ="30", color = "black"><b>Self Introduction</b></font></center>
+<hr color="black"width="100%" align ="center">
+<ul>
+    <li>姓名：莊博勛</li>
+    <li>學校：國立高雄大學</li>
+    <li>科系：資訊管理學系</li>
+    <li>興趣：看劇、動畫</li>
+    <li>個性：內向、慢熟</li>
+    <li>特質：謹慎、穩重</li>
+    <li>語言：中文、英文</li>
+    <li>電話：0918xxxxxx</li>
+    <li>E-mail：a1113366@xxxxxxx</li>
+    <li>戶籍地址：xxxxxx</li>
+    <li>通訊地址：xxxxxx
+</ul>
+<table border=
+    <tr><td>家庭成員</td><td>爸爸</td><td>媽媽</td><td>我
+    <tr><td>喜歡的食物</td><td>炒飯</td><td>壽司</td><td>拉麵
+    <tr><td>愛喝的飲料</td><td>多多綠</td><td>拿鐵</td><td>可口可樂
+    <tr><td>喜歡的顏色</td><td>黑色</td><td>白色</td><td>藍色
+</table>
+</body>
+</html>
